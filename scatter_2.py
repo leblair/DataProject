@@ -17,7 +17,8 @@ df_ingredients = pd.read_sql(query, engine)
 # Crear gráfico de barras
 plt.figure(figsize=(10, 5))
 sns.barplot(x=df_ingredients["num_ingredients"], y=df_ingredients["recipe_id"], palette="coolwarm")
-
+plt.yticks(rotation=30)
+plt.yticks(fontsize=6)
 plt.xlabel("Número de Ingredientes")
 plt.ylabel("Receta")
 plt.title("Top 10 Recetas con Más Ingredientes")

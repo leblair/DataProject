@@ -16,9 +16,10 @@ df = pd.read_sql(query, engine)
 
 
 # Crear el gráfico de barras
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(10, 8))
 plt.bar(df["recipe_id"], df["calories"], color="skyblue", alpha=0.7)
-plt.xticks(rotation=90)
+plt.xticks(rotation=30)
+plt.xticks(fontsize=6)
 
 # Etiquetas y título
 plt.xlabel("Recetas")

@@ -17,7 +17,8 @@ df_cat = pd.read_sql(query, engine)
 # Crear gráfico de barras
 plt.figure(figsize=(12, 6))
 sns.barplot(x=df_cat["total"], y=df_cat["category_id"], palette="viridis")
-
+plt.yticks(rotation=30)
+plt.yticks(fontsize=7)
 plt.xlabel("Número de Recetas")
 plt.ylabel("Categoría")
 plt.title("Número de Recetas por Categoría")
