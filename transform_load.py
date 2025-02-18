@@ -95,6 +95,6 @@ df_recipes.to_csv("./csv_files/processed_recipes.csv", index=False, encoding='ut
 df_categories.to_csv("./csv_files/processed_categories.csv", index=False, encoding='utf-8')
 
 #Cargar Dataframe a database
-#load_data_to_mysql(df_categories,"categories","append")
+load_data_to_mysql(df_categories,"categories","append")
 load_data_to_mysql(df_recipes,"recipes","append")
 

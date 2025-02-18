@@ -38,5 +38,5 @@ def extract_recipe_detail(recipe_name):
         print(f"Error al obtener detalles de {recipe_name}")
         return None
 
-#extract_data(50,0,ENDPOINT_CATEGORIES,"./json_data/raw_data_categories.json")
+extract_data(0,0,ENDPOINT_CATEGORIES,"json_data/raw_data_categories.json")
 extract_data(0, 0, ENDPOINT_RECIPES, "json_data/raw_data_recipes.json")
