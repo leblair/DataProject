@@ -56,7 +56,6 @@ def transform_recipe_data():
     dfresult = dfresult.drop_duplicates(subset=['recipe_id']) #quita las recetas duplicadas
     return dfresult
 
-
 #Funcion para crear Dataframe a partir de raw_data de categories.
 def transform_categories_data():
     #Leer raw data
