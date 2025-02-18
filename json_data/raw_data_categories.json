@@ -1,0 +1,359 @@
+[
+    {
+        "name": "Aperitivos y tapas",
+        "niceName": "aperitivos-tapas",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 1180,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 132,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Arroces",
+        "niceName": "arroces",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 859,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 58,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Bebidas y cócteles",
+        "niceName": "bebidas-y-cocktails",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 620,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 91,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Carnes y aves",
+        "niceName": "carnes-y-aves",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 1453,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 179,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Cremas, caldos y sopas",
+        "niceName": "cremas-caldos-sopas",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 1825,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 171,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Dulces y repostería",
+        "niceName": "dulces-y-reposteria",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 5204,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 429,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Ensaladas",
+        "niceName": "ensaladas",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 174,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 63,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Huevos y tarrinas",
+        "niceName": "huevos-y-tarrinas",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 1255,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 400,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Masas",
+        "niceName": "masas",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 1087,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 107,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Papillas y alimentación infantil",
+        "niceName": "alimentacion-infantil",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 232,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 23,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Pasta",
+        "niceName": "pasta",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 717,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 70,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Pescados y mariscos",
+        "niceName": "pescados-y-mariscos",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 823,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 134,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Potajes y legumbres",
+        "niceName": "potajes-legumbres",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 841,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 53,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Salsas y guarniciones",
+        "niceName": "salsas-y-guarniciones",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 1020,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 110,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Sorbetes y helados",
+        "niceName": "sorbetes-y-helados",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 258,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 41,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "name": "Verduras y hortalizas",
+        "niceName": "verduras-y-hortalizas",
+        "visibility": true,
+        "region": "ES-MYCOOKTOUCH",
+        "count": 1261,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 173,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    },
+    {
+        "niceName": "aceites",
+        "region": "ES-MYCOOKTOUCH",
+        "name": "Vinagretas y aliños",
+        "visibility": true,
+        "count": 59,
+        "mineCount": 0,
+        "draftCount": 0,
+        "favoritesCount": 0,
+        "checkedCount": 13,
+        "toDoCount": 0,
+        "doneCount": 0,
+        "totals": {
+            "favoritesCount": 0,
+            "toDoCount": 0,
+            "doneCount": 0,
+            "mineCount": 0,
+            "checkedCount": 2249,
+            "count": 18840
+        }
+    }
+]
