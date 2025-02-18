@@ -15,7 +15,7 @@ query = "SELECT recipe_id, num_ingredients FROM recipes ORDER BY num_ingredients
 df_ingredients = pd.read_sql(query, engine)
 
 # Crear gráfico de barras
-plt.figure(figsize=(10, 5))
+plt.figure(figsize=(20, 12))
 sns.barplot(x=df_ingredients["num_ingredients"], y=df_ingredients["recipe_id"], palette="coolwarm")
 plt.yticks(rotation=30)
 plt.yticks(fontsize=6)
